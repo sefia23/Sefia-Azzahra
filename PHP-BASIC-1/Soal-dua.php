@@ -127,6 +127,7 @@
         */
         //$name1 = ["Name" => "Will byers", "Age" => "12"];
         //print_r($name1);
+        echo "<h3> Soal 3</h3>";
 
         $Name = array (
             array("Name" => "Will Byers","age" => "12", "Aliases" => "Will the Wise", "Status" => "Alive"),
